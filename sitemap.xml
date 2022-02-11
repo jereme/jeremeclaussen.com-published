@@ -13,31 +13,13 @@
     <lastmod>2022-02-11</lastmod>
   </url>
   <url>
-    <loc>http://publish.jeremeclaussen.com/posts/second-post</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2022-02-11</lastmod>
-  </url>
-  <url>
     <loc>http://publish.jeremeclaussen.com/posts/first-post</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <lastmod>2022-02-11</lastmod>
   </url>
   <url>
-    <loc>http://publish.jeremeclaussen.com/resume</loc>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-    <lastmod>2022-02-11</lastmod>
-  </url>
-  <url>
     <loc>http://publish.jeremeclaussen.com/contact</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2022-02-11</lastmod>
-  </url>
-  <url>
-    <loc>http://publish.jeremeclaussen.com/resume</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <lastmod>2022-02-11</lastmod>
